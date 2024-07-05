@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dev Kansara</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkansara&label=Profile%20views&color=0e75b6&style=flat" alt="devkansara" /> </p>
 
-👨‍💻 My Portfolio [devkansara.github.io/dev-kansara](devkansara.github.io/dev-kansara)
+👨‍💻 My Portfolio [Website](https://devkansara.github.io/dev-kansara/)
 
-📫 How to reach me **devkansara4@gmail.com**
+📫 How to reach me [Email](mailto:devkansara4@gmail.com)
 
 📄 My Resume [Linkssasad.com](Linkssasad.com)
 

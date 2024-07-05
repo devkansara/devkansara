@@ -21,7 +21,7 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=devkansara&theme=prussian" alt="devkansara" />
-&nbsp;<img src="https://github-readme-stats-alpha-six-27.vercel.app/api/top-langs?username=devkansara&theme=prussian&show_icons=true&locale=en&layout=compact&langs_count=8&hide=jupyter%20notebook" alt="devkansara" />
+&nbsp;<img src="https://github-readme-stats-alpha-six-27.vercel.app/api/top-langs?username=devkansara&theme=prussian&show_icons=true&locale=en&layout=compact&langs_count=8&exclude_repo=Major-Project,Toxicity-Classification-On-Social-Media" alt="devkansara" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkansara&theme=nord" alt="devkansara" /></a> </p>

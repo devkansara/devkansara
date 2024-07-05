@@ -3,9 +3,9 @@
 
 👨‍💻 My Portfolio [Website](https://devkansara.github.io/dev-kansara/)
 
-📫 How to reach me [Email](mailto:devkansara4@gmail.com)
+📫 How to reach me **devkansara4@gmail.com**
 
-📄 My Resume [Linkssasad.com](Linkssasad.com)
+📄 My [Resume](Linkssasad.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 📫 How to reach me **devkansara4@gmail.com**
 
-📄 My [Resume](https://github.com/devkansara/resume/blob/444554e19279e543f590bb9be7a10d38f66eef74/DevKansara_Resume.pdf)
+📄 My [Resume](https://github.com/devkansara/resume/blob/main/Dev_Kansara_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
